@@ -6,7 +6,7 @@ It uses the Vlc.DotNet libraries to handle playback, MaterialSkin for the GUI, a
 
 The backend for the web page is written in Python CGI, and needs to run at the same time as the main program. You do not need to worry about this as the program automatically starts the web server in the background.
 
-The port and path that it hosts on can be selected in the 'WebSettings.ini' file in the /Python directory
+The port and path that it hosts on can be selected in the 'WebSettings.ini' file in the '/Python' directory
 
 ## Dependancies
 Web Server like 
@@ -30,8 +30,8 @@ JSON Example:
 	name: "Radio Station 2",
 	url: "http://station_url"
  }
-]```
-
+]
+```
 
 2. Ensure you have a working audio output device (the program uses the default device for playback), and a working internet connection
 
