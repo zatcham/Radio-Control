@@ -11,7 +11,7 @@ The program is very simple to use.
 1. Set the radio stations in the JSON file, an example is provided. The file must be located in the same directory as the executable and be named 'RadioSettings.json'
 
 JSON Example:
-`[
+```[
 	{
 	id: "1",
 	name: "Radio Station 1",
@@ -22,7 +22,7 @@ JSON Example:
 	name: "Radio Station 2",
 	url: "http://station_url"
  }
-]`
+]```
 
 
 2. Ensure you have a working audio output device (the program uses the default device for playback), and a working internet connection
