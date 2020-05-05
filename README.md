@@ -8,8 +8,10 @@ The backend for the web page is written in Python CGI, and needs to run at the s
 
 The port and path that it hosts on can be selected in the 'WebSettings.ini' file in the '/Python' directory
 
-## Dependancies
-Web Server like 
+## Requirements
+A modern computer running Windows 10 (other OSs have not been tested), with a sound card and internet connection
+.NET Framework 4.7.2
+Web Server like WAMP or XAMPP
 
 
 ## How to use:
