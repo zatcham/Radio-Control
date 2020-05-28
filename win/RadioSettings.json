@@ -1,0 +1,27 @@
+[
+	{
+	id: "1",
+	name: "Ibiza Global Radio",
+	url: "https://ibgrpremiumweb.streaming-pro.com:6115/ibgr.mp3"
+	},
+	{
+	id: "2",
+	name: "BBC Radio 1",
+	url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p"
+	},
+	{
+	id: "3",
+	name: "BBC Radio 2",
+	url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"
+	},
+	{
+	id: "4",
+	name: "BBC Radio 6",
+	url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"
+	},
+	{
+	id: "5",
+	name: "BBC Radio London",
+	url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p"
+ }
+]
