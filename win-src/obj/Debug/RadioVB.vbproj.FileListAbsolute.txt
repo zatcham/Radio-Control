@@ -1,0 +1,14 @@
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\bin\Debug\RadioVB.exe.config
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\bin\Debug\RadioVB.exe
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\bin\Debug\RadioVB.pdb
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\bin\Debug\RadioVB.xml
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.vbprojAssemblyReference.cache
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.Form1.resources
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.Resources.resources
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.UpdateCheck.resources
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.vbproj.GenerateResource.cache
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.vbproj.CoreCompileInputs.cache
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.exe
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.xml
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.pdb
+C:\Users\zachm\Desktop\Digital Signage\Radio2\RadioVB\obj\Debug\RadioVB.About.resources

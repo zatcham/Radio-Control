@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBe8oDExe+sUv4lTUBWLBYI8bNK3kZbNT1xVIRzXCsVdJk4wuls8MAMwvcRjhWD0k60sFx2XB09gQZownLomuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zachm\\Desktop\\Digital Signage\\Radio2\\RadioVB\\RadioVB.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zachm\\.nuget\\packages\\materialskin.2\\2.1.2\\materialskin.2.2.1.2.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\vlc.dotnet.core\\3.0.0\\vlc.dotnet.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\vlc.dotnet.core.interops\\3.0.0\\vlc.dotnet.core.interops.3.0.0.nupkg.sha512",
+    "C:\\Users\\zachm\\.nuget\\packages\\vlc.dotnet.forms\\3.0.0\\vlc.dotnet.forms.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
