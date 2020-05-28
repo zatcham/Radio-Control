@@ -6,7 +6,7 @@ It uses the Vlc.DotNet libraries to handle playback, MaterialSkin for the GUI, a
 
 The backend for the web page is written in PHP, and needs to run at the same time as the main program. You do not need to worry about this as the program automatically starts the web server in the background.
 
-The port and path that it hosts on can be selected in the 'SrvPort.conf' file in the '/web' directory
+The port that it hosts on can be selected in the 'SrvPort.conf' file in the '/web' directory
 
 ## Requirements
 A modern computer running Windows 10 (other OSs have not been tested), with a sound card and internet connection
