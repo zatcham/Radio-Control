@@ -4,15 +4,14 @@ This program, written in VB.NET, allows for control of radio playback via a loca
 
 It uses the Vlc.DotNet libraries to handle playback, MaterialSkin for the GUI, and Newtonsoft.Json for reading of the JSON configuration file.
 
-The backend for the web page is written in Python CGI, and needs to run at the same time as the main program. You do not need to worry about this as the program automatically starts the web server in the background.
+The backend for the web page is written in PHP, and needs to run at the same time as the main program. You do not need to worry about this as the program automatically starts the web server in the background.
 
-The port and path that it hosts on can be selected in the 'WebSettings.ini' file in the '/Python' directory
+The port that it hosts on can be selected in the 'SrvPort.conf' file in the '/web' directory
 
 ## Requirements
 A modern computer running Windows 10 (other OSs have not been tested), with a sound card and internet connection
-.NET Framework 4.7.2
-Web Server like WAMP or XAMPP
 
+.NET Framework 4.7.2 installed
 
 ## How to use:
 
